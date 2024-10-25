@@ -19,7 +19,7 @@
         "mongodb",
         "nodejs"
     ],
-    "author": "Julian Andres Hernandez Poveda",
+    "author": "Claudia Camacho Gonzalez",
     "license": "MIT",
     "dependencies": {
         "bcryptjs": "^2.4.3",
